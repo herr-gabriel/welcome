@@ -1,4 +1,6 @@
 welcome
 =======
 
-A page to display upon opening a new tab or window in your webbrowser. 
+Use welcome to have a quick access to your favourite sites.
+
+![welcome Screenshot](https://raw.github.com/herr-gabriel/welcome/master/homepage.png)
